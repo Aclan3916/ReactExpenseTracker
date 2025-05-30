@@ -1,7 +1,7 @@
 {
   "name": "expense-tracker-react",
   "version": "0.1.0",
-  "homepage": "https://github.com/Aclan3916/ReactExpenseTracker",
+  "homepage": "https://Aclan3916.github.io/ReactExpenseTracker",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
